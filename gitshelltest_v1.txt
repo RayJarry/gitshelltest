@@ -1,0 +1,2 @@
+# gitshelltest_v1.txt
+this is the first txt of gitshelltest
